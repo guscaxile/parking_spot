@@ -15,7 +15,7 @@ public class ParkingSpotService {
     final ParkingSpotRepository parkingSpotRepository;
 
     // Construtor que substitui a anotacão Autowired
-    public ParkingSpotService(ParkingSpotRepository parkingSpotRepository){
+    public ParkingSpotService(ParkingSpotRepository parkingSpotRepository) {
         this.parkingSpotRepository = parkingSpotRepository;
     }
 
