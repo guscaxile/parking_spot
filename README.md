@@ -10,3 +10,4 @@ This is a project to manage a condominium parking lot. In it, you fill the space
 
 ### This project was developed in the IDE 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
