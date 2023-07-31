@@ -1,6 +1,6 @@
 # Parking Spot
 
-This is a project to manage a condominium parking lot. In it, you fill the space, make it free, and also make validations of already occupied spaces. If a resident changes the model, color, or brand of his or her car, you also update this data.
+- This is a project to manage a condominium parking lot. In it, you fill the space, make it free, and also make validations of already occupied spaces. If a resident changes the model, color, or brand of his or her car, you also update this data.
 
 ### Technologies used in this project
 
